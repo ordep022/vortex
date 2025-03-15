@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vórtex multimidia ldta </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            color: #ffffff;
+        }
+        header {
+            background-color: #000000;
+            color: rgb(32, 225, 255);
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 1em 0;
+        }
+        nav a {
+            text-decoration: none;
+            color: #35a9bb;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 1em;
+            background: rgb(0, 0, 0);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px #35a9bb(255, 255, 255);
+        }
+        footer {
+        text-align: center;
+        background-color: #35a9bb;
+        border-radius: 5px;
+        padding:1em;
+        color : var(#ffffff)
+        }
+        button {
+        background-color: #46636f;
+        padding:1em;
+        border:1px solid var(#35a9bb)
+        }   
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo  a </h1>
+        <img src="img/vortex.jpg"alt ="Somos a Vórtex ">
+    </header>
+    <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#servicos">Serviços</a>
+        <a href="#contato">Contato</a>
+    </nav>
+    <main>
+        <section id="sobre">
+            <h2 style="color:#35a9bb ;">Sobre:</h2>
+            <p>Fundada em 2025, a Vórtex Multimida é
+                uma empresa de serviços completos, oferecendo
+                soluções acessíveis em multimidias e o mundo digital
+                para pessoas e negócios locais e internacionais.</p>
+        </section>
+        <section id="servicos">
+            <h2 style="color:#35a9bb ;">Servirços:</h2>
+            <p> Social Media, Marketing Digital, Transmissão Ao Vivo, Dashboards e site personalizados, Produção de Multimídia: Vídeos, Design, Fotografia</p>
+        </section>
+        <section id="Contato">
+            <h2 style="color:#35a9bb ;">Contato:</h2>
+            <p>Entre em contato através do  instagram : <a href="https://www.instagram.com/vortex.multimidia/" target="_blank" rel="noopener noreferrer">
+                <button>Instagram</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Vórtex multimidia . Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
