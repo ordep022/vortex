@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vórtex multimidia ldta </title>
+    <title> gabriela cristina  </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -55,7 +55,7 @@
 </head>
 <body>
     <header>
-        <h1>Bem-vindo  a </h1>
+        <h1>seja bem vinva ao site gabriela cristina </h1>
         <img src="img/vortex.jpg"alt ="Somos a Vórtex ">
     </header>
     <nav>
@@ -66,14 +66,11 @@
     <main>
         <section id="sobre">
             <h2 style="color:#35a9bb ;">Sobre:</h2>
-            <p>Fundada em 2025, a Vórtex Multimida é
-                uma empresa de serviços completos, oferecendo
-                soluções acessíveis em multimidias e o mundo digital
-                para pessoas e negócios locais e internacionais.</p>
+            <p>naceu em 2009 e tem atualmente em 2026 tem 17 anos</p>
         </section>
         <section id="servicos">
-            <h2 style="color:#35a9bb ;">Servirços:</h2>
-            <p> Social Media, Marketing Digital, Transmissão Ao Vivo, Dashboards e site personalizados, Produção de Multimídia: Vídeos, Design, Fotografia</p>
+            <h2 style="color:#35a9bb ;">Serviço:</h2>
+            <p> trabalha no forum com atendimento ao publico</p>
         </section>
         <section id="Contato">
             <h2 style="color:#35a9bb ;">Contato:</h2>
@@ -81,6 +78,11 @@
                 <button>Instagram</button>
         </section>
     </main>
+    <footer>
+        <p>&copy; gabriela. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
     <footer>
         <p>&copy; Vórtex multimidia . Todos os direitos reservados.</p>
     </footer>
